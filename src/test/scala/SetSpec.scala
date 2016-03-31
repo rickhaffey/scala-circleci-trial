@@ -13,6 +13,10 @@ class SetSpec extends FunSpec {
           Set.empty.head
         }
       }
+
+      it("probably shouldn't do this") {
+        assert(false)
+      }
     }
   }
 }
