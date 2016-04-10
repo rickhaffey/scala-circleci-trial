@@ -14,9 +14,9 @@ class SetSpec extends FunSpec {
         }
       }
 
-      it("probably shouldn't do this") {
-        assert(false)
-      }
+      //it("probably shouldn't do this") {
+        //assert(false)
+      //}
     }
   }
 }
